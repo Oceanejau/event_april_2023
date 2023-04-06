@@ -1,0 +1,16 @@
+k
+
+h
+2
+J
+F
+M
+
+For this exercice you will have to write the password in a symbolum.txt file.
+Congratulations on decoding this line, the first letter is: k
+Congratulations on decoding this line, the third letter is: h
+CONGRATULATIONSONDECODINGTHISLINETHENEXTCHARACTERIS2
+C O N G R A T U L A T I O N S O N D E C O D I N G T H I S L I N E T H E N E X T L E T T E R I S J
+CONGrATUIATIONS ON DECODING THIS IINE THE NEXT IETTEr IS F
+CONGRATULATIONS ON DECODING THIS LINE THE LAST LETXTER IS M
+PLAYFIRBCDEGHKMNOQSTUVWXZ
